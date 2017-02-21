@@ -1,1 +1,30 @@
-body{background-color:green;}
+body {background-color:#fff7c0;}
+div a {text-decoration:none;
+color:black;font-family:Verdana,sans-serif;
+border-radius:5px;
+	border:2px solid #94618e;
+	background-color:#eeb6b7;
+	height:50px;
+	width: 150px;
+	margin:auto;
+	font-size:20px;
+	float:left;
+	text-align:center;
+}
+
+div#container {width:700px;margin:0 auto;padding:3px;display:block; }
+
+div#menu {font-size:15px;height:60px;
+border:3px;margin-top:5px;}
+
+
+
+a:hover {font-weight:bold;color:#30415d;}
+
+h1{font-family:Times New Roman,sans-serif;font-size:30px;color:#1a2930;}
+
+
+
+
+
+
