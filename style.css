@@ -1,0 +1,126 @@
+body {background-color:#fff7c0}
+.menu a {text-decoration:none;
+color:black;font-family:Verdana,sans-serif;
+border-radius:5px;
+	border:2px solid #94618e;
+	background-color:#eeb6b7;
+	height:47px;
+	width: 140px;
+	margin:10px;
+	font-size:20px;
+	float:left;
+	text-align:center;
+
+}
+ p:first-child {color:#9400d3;font-weight:bold;text-align:center;}
+
+div#container {width:600px;margin:0 auto;padding:3px;
+display:block;height:84px;
+position:relative;left:-100px;}
+
+.menu {font-size:15px;height:60px;
+border:3px;margin-top:67px;margin-bottom:30px;
+position:relative;top:-65px;right:-280px;
+}
+
+
+
+a:hover {font-weight:bold;color:#6e7376;}
+
+
+#stan{height:345px;
+width:960px;
+padding:3px;
+font-family:Verdana;
+text-align:center;
+margin:auto;
+margin-top:50px;
+font-size:16px;
+display:in-line;
+position:relative;
+bottom:70px;
+}
+
+ h1 {font-family:Georgia oblique;font-size:30px;
+ color:#800000;float:left;
+ }
+
+#stan a {text-decoration:none;color:#155765}
+
+.header {height:70px;position:relative;
+margin:0px 0px 15px 0px;}
+
+.header a {float:right;color:#800000;
+font-size:20px;text-decoration:none;
+font-family:Georgia oblique; float:right;
+}
+
+.footer{height:40px;
+margin:0px 0px 0px 0px;border:5px;
+position:relative;background:#CCC;
+top:400px;
+clear:both;
+}
+.footer p {fontnt-size:20px;font-family:Georgia oblique;
+text-align:center;color:black;}
+
+#stan img {position:relative;}
+ 
+ #parabo{height:345px;
+width:700px;
+padding:3px;
+font-family:Verdana;
+text-align:center;
+margin-top:50px;
+margin:auto;
+font-size:16px;
+
+ }
+
+div #parabo img#lcc{height:300px;width:500px;}
+
+div #parabo img#sisters{height:246px;width:320px;
+display:in-line;}
+
+#travel{height:345px;
+width:900px;
+padding:3px;
+font-family:Verdana;
+
+margin-top:50px;
+margin:auto;
+font-size:16px;
+
+}
+ 
+div#travel ul  li img#paris{height:249px;width:333px;
+}
+
+div#travel ul li  img#niagara{height:230px;width:322px;
+}
+
+div#travel ul  li img#ny{height:232px;width:350px;}
+
+div#travel ul li img#ocean{height:254px;width:350px;}
+
+div#travel ul {list-style-type:none;text-align:top;}
+
+
+
+
+#tele{height:300px;
+width:600px;
+padding:3px;
+font-family:Verdana;
+text-align:center;
+margin-top:50px;
+margin:auto;
+
+}
+
+div#tele p a{text-decoration:none;
+font-size:20px;color:#008000;}
+ 
+div#tele h2{text-align:center;}
+
+
