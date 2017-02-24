@@ -1,4 +1,6 @@
 body {background-color:#fff7c0}
+ body.full{height:1000px;
+width:1000px;display:block}
 .menu a {text-decoration:none;
 color:black;font-family:Verdana,sans-serif;
 border-radius:5px;
